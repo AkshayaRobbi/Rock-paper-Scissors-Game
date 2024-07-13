@@ -4,23 +4,23 @@ This is a graphical Rock Paper Scissors game written in Python using the Tkinter
 
 FEATURES:
 
-->Play against the computer.__
-->Scores are displayed for both user and computer.__
-->Visual representations of Rock, Paper, and Scissors are displayed during gameplay.__
-->The game ends when either the user or computer reaches 10 points.__
+->Play against the computer.  
+->Scores are displayed for both user and computer.  
+->Visual representations of Rock, Paper, and Scissors are displayed during gameplay.  
+->The game ends when either the user or computer reaches 10 points.  
 
 HOW TO PLAY:
 
-->Clone this repository or download the files.
-->Install the required libraries: python -m pip install tkinter Pillow
-->Open a terminal or command prompt and navigate to the project directory.
-->Run the script using python RPS game.py.
+->Clone this repository or download the files.  
+->Install the required libraries: python -m pip install tkinter Pillow  
+->Open a terminal or command prompt and navigate to the project directory.  
+->Run the script using python RPS game.py.  
 
 REQUIREMENTS:
 
--Python 3.x
--Tkinter library
--Pillow library (for image handling)
+-Python 3.x  
+-Tkinter library  
+-Pillow library (for image handling)  
 
 OUTPUT:
 
