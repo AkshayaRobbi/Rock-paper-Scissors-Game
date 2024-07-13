@@ -1,4 +1,4 @@
-ROCK PAPER SCISSORS GAME:
+#ROCK-PAPER-SCISSORS-GAME
 
 This is a graphical Rock Paper Scissors game written in Python using the Tkinter library.
 
