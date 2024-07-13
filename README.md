@@ -4,10 +4,10 @@ This is a graphical Rock Paper Scissors game written in Python using the Tkinter
 
 FEATURES:
 
-->Play against the computer.
-->Scores are displayed for both user and computer.
-->Visual representations of Rock, Paper, and Scissors are displayed during gameplay.
-->The game ends when either the user or computer reaches 10 points.
+->Play against the computer.__
+->Scores are displayed for both user and computer.__
+->Visual representations of Rock, Paper, and Scissors are displayed during gameplay.__
+->The game ends when either the user or computer reaches 10 points.__
 
 HOW TO PLAY:
 
